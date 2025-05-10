@@ -112,3 +112,8 @@ player,
   background-color: var(--secondary-color);
   border: 6px solid var(--background-color);
 }
+
+#player-album-art img {
+  width: 150px;
+  display: block;
+}
