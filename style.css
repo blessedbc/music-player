@@ -131,3 +131,7 @@ player,
 .player-display-song-artist {
   height: 80px;
 }
+
+.player-buttons svg {
+  fill: var(--primary-color);
+}
