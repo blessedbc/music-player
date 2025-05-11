@@ -117,3 +117,13 @@ player,
   width: 150px;
   display: block;
 }
+
+.player-display {
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+  padding: 14px;
+  background-color: var(--background-color);
+  height: 153px;
+  width: 226px;
+}
