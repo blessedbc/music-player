@@ -127,3 +127,7 @@ player,
   height: 153px;
   width: 226px;
 }
+
+.player-display-song-artist {
+  height: 80px;
+}
