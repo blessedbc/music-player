@@ -139,3 +139,8 @@ player,
 .playing > svg {
   fill: var(--highlight-color);
 }
+
+.player-buttons {
+  display: flex;
+  justify-content: space-around;
+}
