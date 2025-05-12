@@ -160,3 +160,13 @@ button:focus,
   outline-style: dashed;
   outline-width: 2px;
 }
+
+/* Playlist */
+.playlist {
+  height: auto;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 10px;
+}
