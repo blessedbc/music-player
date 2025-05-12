@@ -144,3 +144,13 @@ player,
   display: flex;
   justify-content: space-around;
 }
+
+button {
+  background: transparent;
+  border: none;
+  color: var(--primary-color);
+  cursor: pointer;
+  font-size: var(--root-font-size);
+  outline-color: var(--highlight-color);
+  text-align: center;
+}
