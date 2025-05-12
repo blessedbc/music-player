@@ -183,3 +183,11 @@ button:focus,
   justify-content: start;
   list-style: none;
 }
+
+.playlist-song {
+  display: flex;
+  height: 55px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+}
