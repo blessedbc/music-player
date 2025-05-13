@@ -155,6 +155,10 @@ button {
   text-align: center;
 }
 
+.playlist-song {
+  outline-color: var(--highlight-color);
+}
+
 button:focus,
 .playlist-song:focus {
   outline-style: dashed;
