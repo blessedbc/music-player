@@ -218,3 +218,8 @@ button:focus,
   padding: 5px 0;
   font-family: var(--font-family);
 }
+
+#player-song-title,
+#player-song-artist {
+  margin: 0;
+}
