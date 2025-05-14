@@ -238,3 +238,8 @@ button:focus,
   width: 241px;
   text-align: left;
 }
+
+.playlist-song-artist {
+  font-size: 0.725rem;
+  width: 80px;
+}
