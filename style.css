@@ -228,3 +228,7 @@ button:focus,
   color: var(--highlight-color);
   font-size: 0.75rem;
 }
+
+#player-song-title {
+  font-size: 1.125rem;
+}
