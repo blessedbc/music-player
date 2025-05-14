@@ -232,3 +232,9 @@ button:focus,
 #player-song-title {
   font-size: 1.125rem;
 }
+
+.playlist-song-title {
+  font-size: 0.85rem;
+  width: 241px;
+  text-align: left;
+}
