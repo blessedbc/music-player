@@ -250,3 +250,9 @@ button:focus,
   font-family: var(--font-headline);
   width: 30px;
 }
+
+.playlist-song-delete {
+  padding: 0;
+  width: 20px;
+  height: 20px;
+}
