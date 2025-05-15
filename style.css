@@ -272,3 +272,7 @@ button:focus,
   .playlist {
     width: 300px;
   }
+
+  .player {
+    height: 340px;
+  }
