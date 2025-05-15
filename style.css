@@ -289,3 +289,7 @@ button:focus,
    #playlist-songs::-webkit-scrollbar {
     width: 5px;
   }
+
+   #playlist-songs::-webkit-scrollbar-track {
+    background: var(--background-color);
+  }
