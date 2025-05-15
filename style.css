@@ -256,3 +256,8 @@ button:focus,
   width: 20px;
   height: 20px;
 }
+
+.playlist-song-delete,
+.playlist-song-delete {
+  fill: var(--foreground-color);
+}
