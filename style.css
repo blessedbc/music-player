@@ -297,3 +297,7 @@ button:focus,
   #playlist-songs::-webkit-scrollbar-thumb {
     background: var(--secondary-color);
   }
+
+  h1 {
+    font-size: 0.813rem;
+  }
