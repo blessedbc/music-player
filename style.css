@@ -305,3 +305,10 @@ button:focus,
    h2 {
     font-size: 0.75rem;
   }
+
+  .player-bar,
+  .playlist-bar,
+  .player-content,
+  #playlist-songs {
+    width: 280px;
+  }
