@@ -312,3 +312,7 @@ button:focus,
   #playlist-songs {
     width: 280px;
   }
+
+   .playlist-song {
+    justify-content: space-between;
+  }
