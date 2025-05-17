@@ -324,3 +324,7 @@ button:focus,
    .playlist-song-artist {
     width: 40px;
   }
+
+   .playlist-song-duration > button {
+    padding: 0;
+  }
