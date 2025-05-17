@@ -328,3 +328,10 @@ button:focus,
    .playlist-song-duration > button {
     padding: 0;
   }
+
+   .player-content {
+    display: inline;
+    position: relative;
+    justify-items: center;
+    height: 100%;
+  }
