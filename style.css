@@ -347,3 +347,7 @@ button:focus,
     width: 100%;
     opacity: 0.6;
   }
+
+  .player-display-song-artist {
+    padding: 0 10px;
+  }
