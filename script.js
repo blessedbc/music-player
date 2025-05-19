@@ -33,4 +33,11 @@ const allSongs = [
     duration: "3:34",
     src: "https://cdn.freecodecamp.org/curriculum/js-music-player/cruising-for-a-musing.mp3",
   },
+  {
+    id: 4,
+    title: "Never Not Favored",
+    artist: "Quincy Larson",
+    duration: "3:35",
+    src: "https://cdn.freecodecamp.org/curriculum/js-music-player/never-not-favored.mp3",
+  },
 ]
