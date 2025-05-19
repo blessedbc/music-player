@@ -26,4 +26,11 @@ const allSongs = [
     duration: "3:51",
     src: "https://cdn.freecodecamp.org/curriculum/js-music-player/still-learning.mp3",
   },
+  {
+    id: 3,
+    title: "Cruising for a Musing",
+    artist: "Quincy Larson",
+    duration: "3:34",
+    src: "https://cdn.freecodecamp.org/curriculum/js-music-player/cruising-for-a-musing.mp3",
+  },
 ]
