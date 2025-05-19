@@ -54,4 +54,11 @@ const allSongs = [
     duration: "3:25",
     src: "https://cdn.freecodecamp.org/curriculum/js-music-player/walking-on-air.mp3",
   },
+  {
+    id: 7,
+    title: "Can't Stop Me. Can't Even Slow Me Down.",
+    artist: "Quincy Larson",
+    duration: "3:52",
+    src: "https://cdn.freecodecamp.org/curriculum/js-music-player/cant-stop-me-cant-even-slow-me-down.mp3",
+  },
 ]
