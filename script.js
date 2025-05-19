@@ -47,4 +47,11 @@ const allSongs = [
     duration: "3:12",
     src: "https://cdn.freecodecamp.org/curriculum/js-music-player/from-the-ground-up.mp3",
   },
+  {
+    id: 6,
+    title: "Walking on Air",
+    artist: "Quincy Larson",
+    duration: "3:25",
+    src: "https://cdn.freecodecamp.org/curriculum/js-music-player/walking-on-air.mp3",
+  },
 ]
