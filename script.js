@@ -4,6 +4,7 @@ const pauseButton = document.getElementById("pause");
 const nextButton = document.getElementById("next");
 const previousButton = document.getElementById("previous");
 const shuffleButton = document.getElementById("shuffle");
+
 const allSongs = [
   {
     id: 0,
@@ -82,4 +83,8 @@ let userData = {
   songs: [...allSongs],
   currentSong: null,
   songCurrentTime: 0,
+};
+
+const playSong = (id) => {
+  
 }
