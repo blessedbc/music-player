@@ -105,5 +105,5 @@ const playSong = (id) => {
 }
 
 const pauseSong = () => {
-  
+    userData.songCurrentTime = audio.currentTime;
 }
