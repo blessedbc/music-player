@@ -248,3 +248,5 @@ pauseButton.addEventListener("click",  pauseSong)
 nextButton.addEventListener("click", playNextSong);
 
 previousButton.addEventListener("click", playPreviousSong);
+
+shuffleButton.addEventListener("click", shuffle);
