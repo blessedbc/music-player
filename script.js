@@ -242,3 +242,5 @@ playButton.addEventListener("click", () => {
     playSong(userData?.currentSong.id);
   }
 });
+
+pauseButton.addEventListener("click",  pauseSong)
